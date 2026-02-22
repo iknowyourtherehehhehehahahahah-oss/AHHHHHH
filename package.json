@@ -1,6 +1,6 @@
 {
-  "name": "interstellar",
-  "version": "5.2.5",
+  "name": "JSB+",
+  "version": "6.7.7",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
@@ -12,7 +12,7 @@
     "precommit": "pnpm run format && pnpm biome check --write .",
     "lint": "biome lint --write ."
   },
-  "author": "InterstellarNetwork",
+  "author": "JonahSTUFFbleeb",
   "license": "GPL-3.0-or-later",
   "dependencies": {
     "@nebula-services/bare-server-node": "^2.0.4",
